@@ -1,0 +1,12 @@
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\bin\Debug\net6.0\Test.Modelos.deps.json
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\bin\Debug\net6.0\Test.Modelos.dll
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\bin\Debug\net6.0\Test.Modelos.pdb
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.csproj.AssemblyReference.cache
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.AssemblyInfoInputs.cache
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.AssemblyInfo.cs
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.dll
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\refint\Test.Modelos.dll
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\Test.Modelos.pdb
+C:\Users\AngelEspinoza\Desktop\ReflectionExample\Test.Modelos\obj\Debug\net6.0\ref\Test.Modelos.dll

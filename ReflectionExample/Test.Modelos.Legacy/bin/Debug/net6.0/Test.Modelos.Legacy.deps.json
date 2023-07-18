@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test.Modelos.Legacy/1.0.0": {
+        "runtime": {
+          "Test.Modelos.Legacy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.Modelos.Legacy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
